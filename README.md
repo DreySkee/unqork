@@ -2,6 +2,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Styling was done using [Styled Components](https://www.styled-components.com/).<br>
 
+### Login
+
+email: unqork@unqork.com
+pass: unqork
+
 ### Available Scripts
 
 In the project directory, you can run:
