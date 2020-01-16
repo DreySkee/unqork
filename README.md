@@ -4,7 +4,7 @@ Styling was done using [Styled Components](https://www.styled-components.com/).<
 
 ### Login
 
-email: unqork@unqork.com
+email: unqork@unqork.com  
 pass: unqork
 
 ### Available Scripts
