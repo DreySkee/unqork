@@ -28,6 +28,7 @@ ReactDOM.render(
               <PrivateRoute exact path="/activities/:activity" component={Activity} /> 
               <PrivateRoute exact path="/profile" component={Profile} />
               <PrivateRoute exact path="/settings" component={Settings} />
+              <Redirect to={{ pathname: '/dashboard' }} />
             </Switch>   
           </DashboardContainer>
           <Redirect to={{ pathname: '/dashboard' }} />
